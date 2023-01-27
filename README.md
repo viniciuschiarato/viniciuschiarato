@@ -8,8 +8,7 @@
   <img align="center" alt="bootstrap" height="30" width="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="jquery" height="30" width="40" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg">
+  c
   <img align="center" alt="angularjs" height="30" width="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="vuejs" height="30" width="40" 
@@ -33,6 +32,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wor
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
       <img align="center" alt="vscode" height="30" width="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="automationanywhere" height="30" width="70" 
+src="https://github.com/viniciuschiarato/viniciuschiarato/blob/main/Certificados/kanban/automation-anywhere.png">
         
 
 
