@@ -8,7 +8,6 @@
   <img align="center" alt="bootstrap" height="30" width="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  c
   <img align="center" alt="angularjs" height="30" width="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="vuejs" height="30" width="40" 
